@@ -1,0 +1,12 @@
+/*Styles for index page*/
+.mainContainer{
+    display: grid;
+    grid-template-rows: 25% 60% 15%;
+}
+.headerContainer{
+    background-color: aqua;
+}
+.indexTitle{
+    text-align: center;
+    font-size: 3em;
+}
