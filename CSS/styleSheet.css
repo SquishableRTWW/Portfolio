@@ -35,3 +35,13 @@ image{
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.SPIntro{
+    font-size: 1.5em;
+    text-align: center;
+}
+.SPContainer1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
