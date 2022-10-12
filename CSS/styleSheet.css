@@ -23,6 +23,10 @@ body{
     justify-content: center;
 }
 
+.DGCIntro{
+    font-size: 1.5em;
+    text-align: center;
+}
 .DGCContainer1{
     display: flex;
     flex-wrap: wrap;
