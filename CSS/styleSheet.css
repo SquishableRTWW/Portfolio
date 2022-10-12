@@ -1,12 +1,26 @@
 /*Styles for index page*/
-.mainContainer{
-    display: grid;
-    grid-template-rows: 25% 60% 15%;
+body{
+    background-color: rgb(46, 46, 46);
+    color: azure;
 }
+
 .headerContainer{
-    background-color: aqua;
+    background-color: rgb(78, 78, 78);
 }
 .indexTitle{
     text-align: center;
     font-size: 3em;
+}
+
+/*All video containers CSS*/
+.physicsContainer1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.DGCContainer1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
