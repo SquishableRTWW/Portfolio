@@ -3,6 +3,9 @@ body{
     background-color: rgb(46, 46, 46);
     color: azure;
 }
+image{
+    padding: 10px;
+}
 
 .headerContainer{
     background-color: rgb(78, 78, 78);
